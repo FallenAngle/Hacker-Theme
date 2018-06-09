@@ -16,8 +16,8 @@
 title: Hacker Theme
 email: hackingtiger942@gmail.com
 description: This this is created to get the filling of hacker
-baseurl: "https://fallenangle.tk/Hacker-Theme/"
-url: "https://fallenangle.tk/Hacker-Theme/"
+baseurl: "/Hacker-Theme"
+url: "https://fallenangle.tk/"
 twitter_username: TigerHacking
 github_username:  FallenAngle
 
