@@ -16,8 +16,8 @@
 title: Hacker Theme
 email: hackingtiger942@gmail.com
 description: This this is created to get the filling of hacker
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://fallenangle.tk/Hacker-Theme/"
+url: "https://fallenangle.tk/Hacker-Theme/"
 twitter_username: TigerHacking
 github_username:  FallenAngle
 
